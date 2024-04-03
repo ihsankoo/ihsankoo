@@ -1,27 +1,18 @@
-
 <h2 align="center"> Innovative Data Scientist & Software Engineer | Transforming Data into Solutions | Passionate about AI and Cloud Technologies</h2>
 <br>
 <h4><b>About Me</b></h4>
-<br>
 <h6>I am a results-driven professional with a strong foundation in computer science and mathematics, passionate about leveraging my problem-solving skills and innovative approach to drive growth. With a history of academic excellence and a robust set of technical skills, I aim to contribute to projects that challenge the status quo and push the boundaries of technology.</h6>
-<br>
 <h4><b>Contact Information</b></h4>
-<br>
 <h6>
   <ul>
     <li><b>Email:</b> ihsankoo.work@gmail.com</li>
     <li><b>LinkedIn:</b> https://linkedin.com/in/ihsankoo</li>
   </ul>
 </h6>
-<br>
 <h4><b>Education</b></h4>
-<br>
 <h6>Bachelor's in Computer Science</h6>
-<br>
 <h6>Thomas Edison State University, Trenton, NJ</h6>
-<br>
 <h6>GPA: 3.94/4.00</h6>
-###
 
 ![17CE6F7E-5D33-4881-B704-66CC1ABE4324](https://user-images.githubusercontent.com/116136562/233181095-f7cefbe5-edad-4709-bb81-adf199c25bba.PNG)
 

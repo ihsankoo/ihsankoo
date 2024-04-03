@@ -1,5 +1,4 @@
 <h2 align="center"> Innovative Data Scientist & Software Engineer | Transforming Data into Solutions | Passionate about AI and Cloud Technologies</h2>
-<br>
 <h4><b>About Me</b></h4>
 <h6>I am a results-driven professional with a strong foundation in computer science and mathematics, passionate about leveraging my problem-solving skills and innovative approach to drive growth. With a history of academic excellence and a robust set of technical skills, I aim to contribute to projects that challenge the status quo and push the boundaries of technology.</h6>
 <h4><b>Contact Information</b></h4>

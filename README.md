@@ -10,9 +10,13 @@
   </ul>
 </h6>
 <h4><b>Education</b></h4>
-<h6>Bachelor's in Computer Science</h6>
-<h6>Thomas Edison State University, Trenton, NJ</h6>
-<h6>GPA: 3.94/4.00</h6>
+<h6>
+  <ul>
+    <li>Bachelor's in Computer Science</li>
+    <li>Thomas Edison State University, Trenton, NJ</li>
+    <li>GPA: 3.94/4.00</li>
+  </ul>
+</h6>
 
 ![17CE6F7E-5D33-4881-B704-66CC1ABE4324](https://user-images.githubusercontent.com/116136562/233181095-f7cefbe5-edad-4709-bb81-adf199c25bba.PNG)
 
